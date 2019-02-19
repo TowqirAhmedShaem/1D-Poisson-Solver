@@ -1,0 +1,20 @@
+Number of iterations to converge = 5
+Final correction to bands = 2.180e-016 eV
+Maximum error in poisson equation= 4.344e-014
+Don't worry, be happy! The convergence is good!
+Multi-run  -4.000e+000, 4.000e+000, 2.500e-001
+
+Structure Sheet Resistance = 2.291e+003 Ohms/square
+
+Layer sheet concentrations
+
+surface            schottky
+-----------------------------------------------------------------------------------------
+500.0 Ang	SiO2	ns= 4.500e-016 cm-2,	ps= 4.900e-016 cm-2
+-----------------------------------------------------------------------------------------
+5000.0 Ang	Si	ns= 6.478e+011 cm-2,	ps= 3.895e+012 cm-2
+-----------------------------------------------------------------------------------------
+substrate            slope=0
+
+Temperature = 300.0 K
+

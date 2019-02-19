@@ -1,0 +1,55 @@
+Number of iterations to converge = -150994187
+Final correction to bands = 7.165e-006 eV
+Maximum error in poisson equation= 2.831e-004
+Don't worry, be happy! The convergence is good!
+
+Structure Sheet Resistance = 9.566e+002 Ohms/square
+
+Layer sheet concentrations
+
+surface            schottky
+-----------------------------------------------------------------------------------------
+100.0 Ang	InGaN	ns= 3.305e+000 cm-2,	ps= 7.711e-017 cm-2
+-----------------------------------------------------------------------------------------
+150.0 Ang	GaN	ns= 1.953e+011 cm-2,	ps= 1.500e-016 cm-2
+-----------------------------------------------------------------------------------------
+100.0 Ang	InGaN	ns= 1.612e+013 cm-2,	ps= 9.500e-017 cm-2
+-----------------------------------------------------------------------------------------
+substrate            slope=0
+
+Temperature = 300.0 K
+
+Schrodinger solution from 2.000e+001 Ang to 3.300e+002 Ang.
+
+The following subband energies were found (E-Ef):
+
+Electron eigenvalue 1 = -3.197026e-001 eV
+Electron eigenvalue 2 = -7.592493e-002 eV
+Heavy hole eigenvalue 1 = -2.835028e-002 eV
+Heavy hole eigenvalue 2 = -1.282327e-001 eV
+Heavy hole eigenvalue 3 = -3.083765e-001 eV
+Heavy hole eigenvalue 4 = -3.280774e-001 eV
+Heavy hole eigenvalue 5 = -5.378024e-001 eV
+Heavy hole eigenvalue 6 = -5.519122e-001 eV
+Heavy hole eigenvalue 7 = -7.670936e-001 eV
+Heavy hole eigenvalue 8 = -7.761534e-001 eV
+Heavy hole eigenvalue 9 = -9.963839e-001 eV
+Heavy hole eigenvalue 10 = -1.000394e+000 eV
+Heavy hole eigenvalue 11 = -1.224602e+000 eV
+Heavy hole eigenvalue 12 = -1.225674e+000 eV
+Heavy hole eigenvalue 13 = -1.446188e+000 eV
+Heavy hole eigenvalue 14 = -1.454965e+000 eV
+Light hole eigenvalue 1 = -2.835028e-002 eV
+Light hole eigenvalue 2 = -1.282327e-001 eV
+Light hole eigenvalue 3 = -3.083765e-001 eV
+Light hole eigenvalue 4 = -3.280774e-001 eV
+Light hole eigenvalue 5 = -5.378024e-001 eV
+Light hole eigenvalue 6 = -5.519122e-001 eV
+Light hole eigenvalue 7 = -7.670936e-001 eV
+Light hole eigenvalue 8 = -7.761534e-001 eV
+Light hole eigenvalue 9 = -9.963839e-001 eV
+Light hole eigenvalue 10 = -1.000394e+000 eV
+Light hole eigenvalue 11 = -1.224602e+000 eV
+Light hole eigenvalue 12 = -1.225674e+000 eV
+Light hole eigenvalue 13 = -1.446188e+000 eV
+Light hole eigenvalue 14 = -1.454965e+000 eV
